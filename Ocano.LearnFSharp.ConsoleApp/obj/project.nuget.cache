@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b57G4qaN8o73inqCNmcKzX5fXIFy3oYa6pJ3/waViLw4tnbV15NMLjr9xqO1Vw59+u40bOklzb20dBMwqkSgiA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Private\\Ocano.LearnFSharp\\Ocano.LearnFSharp.ConsoleApp\\Ocano.LearnFSharp.ConsoleApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aocano\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

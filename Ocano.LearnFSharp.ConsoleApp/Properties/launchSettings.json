@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ocano.LearnFSharp.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "24"
+    }
+  }
+}
